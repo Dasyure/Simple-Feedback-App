@@ -1,2 +1,4 @@
-# Basic-CRUD-web-app
-Nothing serious, a basic app for me to practice Mysql with
+# Simple Feedback App
+https://lexusfeedback098.herokuapp.com/
+
+Practising deploying a website with a database which uses postgresql.
